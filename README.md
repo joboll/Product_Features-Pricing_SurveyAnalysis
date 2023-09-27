@@ -6,7 +6,7 @@
 2. This repo includes a Jupyter Lab Notebooks.
     - SHe_UserSurveyAnalysis.ipynb: Focuses on 4 critical questions to answer in order to support decision making by the Product Management team. I followed a scientific steps style in the analysis and reporting.
 
-### Why is are the datasets missing? ###
+### Why are the datasets missing? ###
 
 * Data sets contains personnal information I cannot make public.
 * You can still see the Notebook cells as processed by me.
